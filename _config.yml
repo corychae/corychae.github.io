@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "C 프로그래밍"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "채정우"
-description              : "시스템 프로그램을 위한 C언어"
+description              : "정우의 잡학지식"
 url                      : # the base hostname & protocol for your site e.g. "https://corychae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "JeongWooChae/corychae.github.io"
